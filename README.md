@@ -1,2 +1,4 @@
 # C++
-Bastan sona hazirladigim C++ kaynak kodlarini iceren repo
+Baştan sona bir C++ öğrenim macerası!
+
+-Artık örnekler konu başlıkları ve algoritmalarına göre ayrıldı! İstediğiniz içeriğe daha kolay ulaşabilirsiniz!
